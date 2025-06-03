@@ -1,0 +1,108 @@
+2025-06-03T10:53:32.6453060+02:00 - Server started...
+2025-06-03T10:55:00.0122849+02:00 - Server started...
+2025-06-03T11:14:35.2074587+02:00 - Server started...
+2025-06-03T11:22:24.3306006+02:00 - Server started...
+2025-06-03T11:26:15.0882090+02:00 - Server started...
+2025-06-03T11:30:31.7026091+02:00 - Server started...
+2025-06-03T11:38:32.0753789+02:00 - Server started...
+2025-06-03T11:41:34.6620915+02:00 - Server started...
+2025-06-03T11:42:57.9598676+02:00 - Server started...
+2025-06-03T11:45:29.4028130+02:00 - Server started...
+2025-06-03T11:48:17.7180261+02:00 - Server started...
+2025-06-03T12:01:02.1833127+02:00 - Server started...
+2025-06-03T12:01:09.3828757+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T12:01:50.2863474+02:00 - Server started...
+2025-06-03T12:02:13.0656002+02:00 - Server started...
+2025-06-03T12:02:23.2056523+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T12:04:03.2035442+02:00 - Server started...
+2025-06-03T12:04:34.7086661+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T12:07:56.2772419+02:00 - Server started...
+2025-06-03T12:08:14.4206357+02:00 - Request for code generation (NumberOfCodes=1000, Length=7)
+2025-06-03T12:08:39.1710670+02:00 - Request for use code (Code=2MC863F )
+2025-06-03T12:09:19.8343279+02:00 - Server started...
+2025-06-03T12:11:06.3580436+02:00 - Request for code generation (NumberOfCodes=1500, Length=7)
+2025-06-03T12:11:09.0916937+02:00 - Request for code generation (NumberOfCodes=1500, Length=7)
+2025-06-03T12:15:18.3984875+02:00 - Request for code generation (NumberOfCodes=1, Length=7)
+2025-06-03T12:15:18.4468705+02:00 - Request for code generation (NumberOfCodes=1, Length=7)
+2025-06-03T12:20:37.1794907+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:20:49.9318692+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:20:49.9341002+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:20:50.0175441+02:00 - Error: The process cannot access the file 'C:\Users\vegim\Downloads\DiscountCodeServer\bin\Debug\net8.0\codes.json' because it is being used by another process.
+2025-06-03T12:21:05.6097458+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:21:05.6119149+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:21:33.4094821+02:00 - Server started...
+2025-06-03T12:22:23.0459002+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:22:23.1465687+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:22:33.5042612+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:22:33.5065022+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:22:33.5221028+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:22:33.5393205+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:22:33.5492282+02:00 - Request for code generation (NumberOfCodes=10, Length=7)
+2025-06-03T12:25:20.6405063+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T12:25:20.6451392+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T12:25:53.3044386+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T12:25:53.3067881+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T12:26:22.3285536+02:00 - Server started...
+2025-06-03T13:12:04.3021963+02:00 - Request for code generation (NumberOfCodes=50, Length=7)
+2025-06-03T13:12:04.4475056+02:00 - Request for code generation (NumberOfCodes=50, Length=7)
+2025-06-03T13:12:04.4682504+02:00 - Request for code generation (NumberOfCodes=50, Length=7)
+2025-06-03T13:12:04.4794195+02:00 - Request for code generation (NumberOfCodes=50, Length=7)
+2025-06-03T13:12:04.4931708+02:00 - Request for code generation (NumberOfCodes=50, Length=7)
+2025-06-03T13:12:21.4235348+02:00 - Request for use code (Code=U25UC25 )
+2025-06-03T13:12:21.4261633+02:00 - Request for use code (Code=U25UC25 )
+2025-06-03T13:12:21.4281530+02:00 - Request for use code (Code=U25UC25 )
+2025-06-03T15:57:16.2556931+02:00 - Server started...
+2025-06-03T15:58:02.6317723+02:00 - Request for code generation (NumberOfCodes=2000, Length=7)
+2025-06-03T15:58:02.7748556+02:00 - Request for code generation (NumberOfCodes=2000, Length=7)
+2025-06-03T15:58:02.8071627+02:00 - Request for code generation (NumberOfCodes=2000, Length=7)
+2025-06-03T15:58:02.8964715+02:00 - Error: Destination array is not long enough to copy all the items in the collection. Check array index and length.
+2025-06-03T15:58:14.7643962+02:00 - Request for code generation (NumberOfCodes=1000, Length=7)
+2025-06-03T15:58:14.7690217+02:00 - Request for code generation (NumberOfCodes=1000, Length=7)
+2025-06-03T15:58:14.8457356+02:00 - Error: Destination array is not long enough to copy all the items in the collection. Check array index and length.
+2025-06-03T16:00:36.4192128+02:00 - Server started...
+2025-06-03T16:00:57.7460298+02:00 - Request for code generation (NumberOfCodes=3, Length=7)
+2025-06-03T16:00:57.8402914+02:00 - Request for code generation (NumberOfCodes=3, Length=7)
+2025-06-03T16:00:57.8560325+02:00 - Request for code generation (NumberOfCodes=3, Length=7)
+2025-06-03T16:02:03.5423783+02:00 - Request for use code (Code=3K5X8QG )
+2025-06-03T16:02:03.5550747+02:00 - Request for use code (Code=3K5X8QG )
+2025-06-03T16:02:03.5689282+02:00 - Request for use code (Code=3K5X8QG )
+2025-06-03T16:12:28.0346849+02:00 - Server started...
+2025-06-03T16:12:55.6837503+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T16:12:55.6970086+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T16:12:55.7088710+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T16:15:43.5883703+02:00 - Request for use code (Code=08P211T )
+2025-06-03T16:15:43.5957643+02:00 - Request for use code (Code=D0ME1LO )
+2025-06-03T16:15:43.6147593+02:00 - Request for use code (Code=W84GMLH )
+2025-06-03T16:16:06.2249098+02:00 - Request for use code (Code=YJEMO0S )
+2025-06-03T16:16:40.2648739+02:00 - Request for use code (Code=WHBHMS7 )
+2025-06-03T16:16:40.2767379+02:00 - Request for use code (Code=CH2T5N8 )
+2025-06-03T16:16:40.2895718+02:00 - Request for use code (Code=        )
+2025-06-03T16:17:09.8036448+02:00 - Request for use code (Code=Q2ZAB7Q )
+2025-06-03T16:17:09.8102476+02:00 - Request for use code (Code=RDPWF2N )
+2025-06-03T16:17:09.8216079+02:00 - Request for use code (Code=        )
+2025-06-03T16:18:07.6421706+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T16:18:07.6467020+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T16:18:07.6548508+02:00 - Request for code generation (NumberOfCodes=2, Length=7)
+2025-06-03T16:27:32.3807582+02:00 - Request for use code (Code=77VRRNZ )
+2025-06-03T16:27:32.3871735+02:00 - Request for use code (Code=CDB4I1N )
+2025-06-03T16:27:32.3964530+02:00 - Request for use code (Code=O6PLXU2 )
+2025-06-03T16:33:49.3356582+02:00 - Server started...
+2025-06-03T16:34:08.5456452+02:00 - Request for code generation (NumberOfCodes=1, Length=7)
+2025-06-03T16:34:15.9082854+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T16:34:15.9103763+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T16:34:15.9241741+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T16:34:15.9345276+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T16:34:15.9445838+02:00 - Request for code generation (NumberOfCodes=5, Length=7)
+2025-06-03T16:37:06.4975528+02:00 - Server started...
+2025-06-03T16:37:22.9605410+02:00 - Request for code generation (NumberOfCodes=3, Length=7)
+2025-06-03T16:37:22.9683368+02:00 - Request for code generation (NumberOfCodes=3, Length=7)
+2025-06-03T16:37:22.9845666+02:00 - Request for code generation (NumberOfCodes=3, Length=7)
+2025-06-03T16:37:38.5384931+02:00 - Request for code generation (NumberOfCodes=3, Length=8)
+2025-06-03T16:37:38.5403695+02:00 - Request for code generation (NumberOfCodes=3, Length=8)
+2025-06-03T16:37:38.5552650+02:00 - Request for code generation (NumberOfCodes=3, Length=8)
+2025-06-03T16:37:52.6650257+02:00 - Request for code generation (NumberOfCodes=3, Length=8)
+2025-06-03T16:37:52.6674519+02:00 - Request for code generation (NumberOfCodes=3, Length=8)
+2025-06-03T16:37:52.6839923+02:00 - Request for code generation (NumberOfCodes=3, Length=8)
+2025-06-03T16:38:32.1707205+02:00 - Request for use code (Code=2JQ309Z )
+2025-06-03T16:38:32.1942851+02:00 - Request for use code (Code=FG5GEACX)
+2025-06-03T16:38:32.2214091+02:00 - Request for use code (Code=2PL3N1KS)
