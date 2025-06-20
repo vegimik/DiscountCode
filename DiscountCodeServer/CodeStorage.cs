@@ -1,10 +1,19 @@
 using System.Text.Json;
+using System.Collections.Concurrent;
+using System.Threading;
 
 namespace DiscountServer;
 
-public class CodeStorage
+public interface ICodeStorage
+{
+    HashSet<string> LoadCodes();
+    Task SaveCodesAsync(HashSet<string> codes);
+}
+
+public class CodeStorage : ICodeStorage
 {
     private const string FilePath = "codes.json";
+    private static readonly SemaphoreSlim _fileSemaphore = new(1, 1);
 
     public HashSet<string> LoadCodes()
     {
@@ -19,9 +28,8 @@ public class CodeStorage
                 ? new HashSet<string>()
                 : JsonSerializer.Deserialize<HashSet<string>>(json) ?? new HashSet<string>();
         }
-        catch (Exception ex)
+        catch
         {
-            Console.WriteLine($"Failed to load codes: {ex.Message}");
             return new HashSet<string>();
         }
     }
@@ -29,6 +37,14 @@ public class CodeStorage
     public async Task SaveCodesAsync(HashSet<string> codes)
     {
         var json = System.Text.Json.JsonSerializer.Serialize(codes);
-        await File.WriteAllTextAsync(FilePath, json);
+        await _fileSemaphore.WaitAsync();
+        try
+        {
+            await File.WriteAllTextAsync(FilePath, json);
+        }
+        finally
+        {
+            _fileSemaphore.Release();
+        }
     }
 }
